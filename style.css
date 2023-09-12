@@ -1,0 +1,19 @@
+html {
+    background-image: url(nebo.jpg);
+}
+
+button {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    transition: 0.5s;
+    position: absolute;
+    background-color: #d428eb; 
+    
+  }
+  
